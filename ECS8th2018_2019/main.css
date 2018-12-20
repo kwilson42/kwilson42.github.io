@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Major+Mono+Display);
+
+html {
+  font: 18px, 'Comic Sans MS', cursive;
+  width: 320px;
+  margin: 0 auto 0 auto;
+  background-image: url(https://codeavengers.com/images/textures/light8a.png);
+  background-color: MediumAquamarine;
+}
+
+h1,h2 {
+  color: maroon;
+  font-family: 'Major Mono Display', monospace;
+  text-align: center;
+  border: 12px ridge gray;
+}
+
+footer {
+  border: 12px ridge gray;
+  text-align: center;
+  font-family: 'Major Mono Display', monospace;
+}
+
+a:hover {
+  color: gray;
+}
+
+h1 {
+  text-shadow: 0px 1px 0px maroon,
+               0px 2px 0px red;
+}
+
+img {
+  border: 12px groove MidnightBlue;
+}
+
+ul {
+  list-style-image: url(https://codeavengers.com/images/icons/icon1.png);
+}
